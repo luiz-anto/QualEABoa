@@ -1,0 +1,9 @@
+set DB_host=localhost:5432
+set DB_User=postgres
+set Password=1874
+cd C:\Users\auditorio\Documents\Projeto\Semestral\Semestral\semestral-main\Semestral
+
+netstat -ano | findstr :8080
+taskkill /PID 1234 /F
+
+mvnw.cmd spring-boot:run

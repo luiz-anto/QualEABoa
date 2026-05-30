@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/inaci/Desktop/**)",
+      "Bash(powershell.exe -Command \"Compress-Archive -Path 'C:\\\\\\\\Users\\\\\\\\inaci\\\\\\\\Desktop\\\\\\\\Semestral\\\\\\\\*' -DestinationPath 'C:\\\\\\\\Users\\\\\\\\inaci\\\\\\\\Desktop\\\\\\\\QualABoa_Atualizado.zip' -Force; if \\(\\\\$?\\) { Write-Output 'ZIP criado com sucesso' } else { Write-Output 'Erro ao criar ZIP' }\")",
+      "Bash(powershell.exe -Command \"\\(Get-Item 'C:\\\\\\\\Users\\\\\\\\inaci\\\\\\\\Desktop\\\\\\\\QualABoa_Atualizado.zip'\\).Length / 1MB\")"
+    ]
+  }
+}
