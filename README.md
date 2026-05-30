@@ -188,7 +188,3 @@ Verifique se o PostgreSQL está rodando e se as variáveis `DB_host`, `DB_User` 
 O backend não está rodando. Volte ao terminal e execute o `mvnw.cmd spring-boot:run` novamente.
 
 ---
-
-## 👥 Autores
-
-Desenvolvido como projeto semestral — FECAF
