@@ -1,5 +1,7 @@
 # 📍 Qual é a Boa?
 
+VIDEO PITCH:https://www.youtube.com/watch?v=5dJ8nsIaAOU
+
 Plataforma de descoberta e criação de eventos locais. Os usuários podem criar eventos públicos ou privados, participar, receber ingressos e visualizar tudo em um mapa interativo.
 
 ---
